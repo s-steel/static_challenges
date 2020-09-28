@@ -1,0 +1,28 @@
+h1 {color: white;
+    background-color: rgb(240,0,0);
+    padding: 25px;
+    font-size: 45px;}
+.navbar {text-align: right;
+    background-color: rgb(60,60,60);
+    padding: 15px;
+    color: white;}
+
+h4 {font-weight: bold;
+    padding: 20px;}
+
+p {padding: 20px;}
+
+
+.side {float:right;
+       font-weight: bold;
+       width: 20%;
+       text-align: left;}
+
+.main {float: left;
+       background-color: white;
+     width: 75%;}
+
+.footer {background-color: rgb(60,60,60);
+       color: white;
+       position: absolute;
+       bottom: 0;}
