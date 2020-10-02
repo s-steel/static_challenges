@@ -1,28 +1,38 @@
 h1 {color: white;
     background-color: rgb(240,0,0);
     padding: 25px;
-    font-size: 45px;}
+    font-size: 35px;
+    font-family: sans-serif, Arial;}
+
 .navbar {text-align: right;
     background-color: rgb(60,60,60);
     padding: 15px;
-    color: white;}
+    color: white;
+    font-family: sans-serif, Arial}
 
 h4 {font-weight: bold;
-    padding: 20px;}
+    padding: 20px;
+    }
 
-p {padding: 20px;}
+p {padding: 20px;
+   }
 
 
 .side {float:right;
        font-weight: bold;
        width: 20%;
-       text-align: left;}
+       text-align: left;
+       font-family: sans-serif, Arial}
 
 .main {float: left;
        background-color: white;
-     width: 75%;}
+       width: 75%;
+       font-family: sans-serif, Arial;}
 
 .footer {background-color: rgb(60,60,60);
        color: white;
-       position: absolute;
-       bottom: 0;}
+       position: fixed;
+       bottom: 0;
+       left: 0;
+       width: 100%;
+       font-family: sans-serif, Arial;}
